@@ -1,0 +1,22 @@
+Intervju: Elina är sur över lönen 
+Intervju: Vincent lämnar sin dator på festen
+Per: Jag såg felix snacka med en designer.
+Intervju Marie: 
+ 
+Marie hotar felix med F.
+
+INTRO: 
+Vincent lämnade sin dator innan han gick till hackfest. När han kom tillbaka var den borta. det fann ett vittne Per. SEARCH THROUGH THE YRGO DATABASE TO FIND OUT WHO DID IT!
+
+INTERVJU > Vincents statement: Jag skulle gå till hackfest och lämnade min dator när jag kom tillbaka var den borta. Jag drog därifrån 19:45 och och kom tillbaka 20:00 och då var datorn borta. 
+
+EVENTS > DATE left, date came > 3 suspects  
+
+suspects: Martin, Felix, Victor.
+
+
+
+
+
+
+ 
