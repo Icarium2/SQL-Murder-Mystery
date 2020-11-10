@@ -30,4 +30,8 @@ Good luck, detectives!
 
 
 
+![Database-structure](https://ibb.co/ydPftPV)
+
+
+
 
