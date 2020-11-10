@@ -30,7 +30,7 @@ Good luck, detectives!
 
 
 
-![Database-structure](https://ibb.co/ydPftPV)
+![Database-structure](https://i.ibb.co/QpQbLQX/DBDesign.png)
 
 
 
